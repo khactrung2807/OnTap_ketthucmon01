@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123943736688",
+    "project_id": "ontap-ketthucmon1",
+    "storage_bucket": "ontap-ketthucmon1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943736688:android:2a3a310b879dbd05ed6bb5",
+        "android_client_info": {
+          "package_name": "com.example.ontap_ketthucmon01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123943736688-0adktfmkou7qont5pdr959929pd4ngvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoKeeSfm_s8jz_wuKoxmXCgH_0suofzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123943736688-0adktfmkou7qont5pdr959929pd4ngvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
